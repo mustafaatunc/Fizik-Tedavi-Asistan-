@@ -12,20 +12,32 @@ double translateX(
 ) {
   switch (rotation) {
     case InputImageRotation.rotation90deg:
-      return x *
+      final double translatedX =
+          x *
           canvasSize.width /
           (Platform.isIOS ? imageSize.width : imageSize.height);
+      // YENİ: Ön kamera ise aynala (Mirror effect)
+      return cameraLensDirection == CameraLensDirection.front
+          ? canvasSize.width - translatedX
+          : translatedX;
+
     case InputImageRotation.rotation270deg:
-      return canvasSize.width -
+      final double translatedX =
+          canvasSize.width -
           x *
               canvasSize.width /
               (Platform.isIOS ? imageSize.width : imageSize.height);
+      // YENİ: Ön kamera ise aynala
+      return cameraLensDirection == CameraLensDirection.front
+          ? canvasSize.width - translatedX
+          : translatedX;
+
     case InputImageRotation.rotation0deg:
     case InputImageRotation.rotation180deg:
       switch (cameraLensDirection) {
         case CameraLensDirection.back:
           return x * canvasSize.width / imageSize.width;
-        default:
+        default: // Ön Kamera
           return canvasSize.width - x * canvasSize.width / imageSize.width;
       }
   }
