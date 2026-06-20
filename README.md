@@ -3,7 +3,7 @@
 An intelligent, privacy-first mobile application that acts as a digital physical therapist and fitness coach. Built with **Flutter**, it uses **On-Device Machine Learning (Edge AI)** to track 33 human skeletal landmarks in real-time, calculates biomechanical joint angles, and provides a dynamic AI-driven workout routine based on cumulative muscle development.
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/a57ae17f-fac6-4ec7-9acd-66bf7c6a3439" alt="App Cover" width="100%">
+  <img src="https://github.com/user-attachments/assets/e79f2a94-5473-407a-9ce3-c8a126a572bf" width="24%">
 </p>
 
 ## ✨ Key Features
