@@ -44,6 +44,7 @@ An intelligent, privacy-first mobile application that acts as a digital physical
 ### 🎯 3. AI Coach & Gamification
 *Muscle asymmetry radar charts, daily dynamic AI prescriptions, and EXP systems.*
 <p align="center">
+  <img src="https://github.com/user-attachments/assets/ff0d0195-acae-4732-bfb4-15bd26701978" width="23%">
   <img src="https://github.com/user-attachments/assets/7e9a5925-2d4c-4bab-9e26-594b93ea2809" width="23%">
   <img src="https://github.com/user-attachments/assets/3771c1df-4ef9-4c10-b9bd-4afceb06e88f" width="23%">
   <img src="https://github.com/user-attachments/assets/14a6cc7f-1cb5-4a37-9a93-5d9eb02e09bd" width="23%">
