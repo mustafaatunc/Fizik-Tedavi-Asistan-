@@ -3,7 +3,7 @@
 An intelligent, privacy-first mobile application that acts as a digital physical therapist and fitness coach. Built with **Flutter**, it uses **On-Device Machine Learning (Edge AI)** to track 33 human skeletal landmarks in real-time, calculates biomechanical joint angles, and provides a dynamic AI-driven workout routine based on cumulative muscle development.
 
 <p align="center">
-  <img src="[Add Image URL: App Mockup/Cover Image]" alt="App Cover" width="100%">
+  <img src="https://github.com/user-attachments/assets/a57ae17f-fac6-4ec7-9acd-66bf7c6a3439" alt="App Cover" width="100%">
 </p>
 
 ## ✨ Key Features
@@ -19,32 +19,18 @@ An intelligent, privacy-first mobile application that acts as a digital physical
 ## 📸 Screenshots
 
 <p align="center">
-  <img src="[Add Image URL: <img width="529" height="1183" alt="image" src="https://github.com/user-attachments/assets/5d8346b7-c936-4bb9-bef0-e2252576e758" />
-]" width="24%">
-  <img src="[Add Image URL: <img width="568" height="1223" alt="image" src="https://github.com/user-attachments/assets/1d98bb3e-da88-4e6a-a1f1-48a16e689c61" />
-]" width="24%">
-  <img src="[Add Image URL: <img width="533" height="1215" alt="image" src="https://github.com/user-attachments/assets/9ca574be-c5c1-499d-bfd8-36fe411bbd57" />
-]" width="24%">
-  <img src="[Add Image URL: <img width="414" height="943" alt="image" src="https://github.com/user-attachments/assets/a3d404bc-5d33-4c23-9e15-b6612f767155" />
-]" width="24%">
-  <img src="[Add Image URL: <img width="420" height="943" alt="image" src="https://github.com/user-attachments/assets/f3a1b17e-3907-4f1a-b6ca-37e7775391f4" />
-]" width="24%">
-  <img src="[Add Image URL: <img width="793" height="1013" alt="image" src="https://github.com/user-attachments/assets/3870e1b5-d858-4c67-984e-2f0238e7f65d" />
-]" width="24%">
-  <img src="[Add Image URL: <img width="552" height="1203" alt="image" src="https://github.com/user-attachments/assets/49cfae76-1e00-4c70-9a6a-e6a187a117f6" />
-]" width="24%">
-  <img src="[Add Image URL: <img width="846" height="1288" alt="image" src="https://github.com/user-attachments/assets/12abd363-b6ff-4f53-bf46-03861c2c5758" />
-]" width="24%">
-  <img src="[Add Image URL: <img width="668" height="1288" alt="image" src="https://github.com/user-attachments/assets/7e9a5925-2d4c-4bab-9e26-594b93ea2809" />
-]" width="24%">
-  <img src="[Add Image URL: <img width="508" height="1110" alt="image" src="https://github.com/user-attachments/assets/3771c1df-4ef9-4c10-b9bd-4afceb06e88f" />
-]" width="24%">
-  <img src="[Add Image URL: <img width="532" height="1150" alt="image" src="https://github.com/user-attachments/assets/14a6cc7f-1cb5-4a37-9a93-5d9eb02e09bd" />
-]" width="24%">
-  <img src="[Add Image URL: <img width="1035" height="1025" alt="image" src="https://github.com/user-attachments/assets/a57ae17f-fac6-4ec7-9acd-66bf7c6a3439" />
-]" width="24%">
-  <img src="[Add Image URL: <img width="677" height="1543" alt="image" src="https://github.com/user-attachments/assets/e79f2a94-5473-407a-9ce3-c8a126a572bf" />
-]" width="24%">
+  <img src="https://github.com/user-attachments/assets/5d8346b7-c936-4bb9-bef0-e2252576e758" width="24%">
+  <img src="https://github.com/user-attachments/assets/1d98bb3e-da88-4e6a-a1f1-48a16e689c61" width="24%">
+  <img src="https://github.com/user-attachments/assets/9ca574be-c5c1-499d-bfd8-36fe411bbd57" width="24%">
+  <img src="https://github.com/user-attachments/assets/a3d404bc-5d33-4c23-9e15-b6612f767155" width="24%">
+  <img src="https://github.com/user-attachments/assets/f3a1b17e-3907-4f1a-b6ca-37e7775391f4" width="24%">
+  <img src="https://github.com/user-attachments/assets/3870e1b5-d858-4c67-984e-2f0238e7f65d" width="24%">
+  <img src="https://github.com/user-attachments/assets/49cfae76-1e00-4c70-9a6a-e6a187a117f6" width="24%">
+  <img src="https://github.com/user-attachments/assets/12abd363-b6ff-4f53-bf46-03861c2c5758" width="24%">
+  <img src="https://github.com/user-attachments/assets/7e9a5925-2d4c-4bab-9e26-594b93ea2809" width="24%">
+  <img src="https://github.com/user-attachments/assets/3771c1df-4ef9-4c10-b9bd-4afceb06e88f" width="24%">
+  <img src="https://github.com/user-attachments/assets/14a6cc7f-1cb5-4a37-9a93-5d9eb02e09bd" width="24%">
+  <img src="https://github.com/user-attachments/assets/e79f2a94-5473-407a-9ce3-c8a126a572bf" width="24%">
 </p>
 
 ## 🛠️ Technical Architecture & Tech Stack
@@ -73,4 +59,4 @@ The core posture-correction logic has been tested and validated against the **UI
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/yourusername/your-repo-name.git](https://github.com/yourusername/your-repo-name.git)
+   git clone [https://github.com/mustafaatunc/Fizik-Tedavi-Asistan-.git](https://github.com/mustafaatunc/Fizik-Tedavi-Asistan-.git)
