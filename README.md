@@ -30,7 +30,7 @@ An intelligent, privacy-first mobile application that acts as a digital physical
   <img src="https://github.com/user-attachments/assets/7e9a5925-2d4c-4bab-9e26-594b93ea2809" width="24%">
   <img src="https://github.com/user-attachments/assets/3771c1df-4ef9-4c10-b9bd-4afceb06e88f" width="24%">
   <img src="https://github.com/user-attachments/assets/14a6cc7f-1cb5-4a37-9a93-5d9eb02e09bd" width="24%">
-  <img src="https://github.com/user-attachments/assets/e79f2a94-5473-407a-9ce3-c8a126a572bf" width="24%">
+  
 </p>
 
 ## 🛠️ Technical Architecture & Tech Stack
