@@ -117,4 +117,6 @@ Contributions, issues, and feature requests are welcome! Feel free to check the 
 
 ## 📝 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+© Copyright & License
+© 2026 Mustafa Tunç. All Rights Reserved.
+This repository is strictly for portfolio and academic demonstration purposes. No part of this code may be reproduced, distributed, modified, or used for any commercial or personal projects without explicit written permission from the author.
