@@ -90,3 +90,31 @@ The core posture-correction logic has been tested and validated against the **UI
 1. Clone the repository:
    ```bash
    git clone [https://github.com/mustafaatunc/Fizik-Tedavi-Asistan-.git](https://github.com/mustafaatunc/Fizik-Tedavi-Asistan-.git)
+   ```
+
+2. Navigate to the project directory:
+   ```bash
+   cd Fizik-Tedavi-Asistan-
+   ```
+
+3. Get the dependencies:
+   ```bash
+   flutter pub get
+   ```
+
+4. Run the app on your physical device:
+   ```bash
+   flutter run
+   ```
+
+---
+
+## 🤝 Contributing
+
+Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/mustafaatunc/Fizik-Tedavi-Asistan-/issues).
+
+---
+
+## 📝 License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
