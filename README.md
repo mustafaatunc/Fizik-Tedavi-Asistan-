@@ -1,4 +1,4 @@
-<img width="414" height="943" alt="image" src="https://github.com/user-attachments/assets/026efb5e-a9d0-47e4-9005-16ee8d231214" /># 🏋️‍♂️ AI-Powered Physical Therapy & Fitness Assistant
+# 🏋️‍♂️ AI-Powered Physical Therapy & Fitness Assistant
 
 An intelligent, privacy-first mobile application that acts as a digital physical therapist and fitness coach. Built with **Flutter**, it uses **On-Device Machine Learning (Edge AI)** to track 33 human skeletal landmarks in real-time, calculates biomechanical joint angles, and provides a dynamic AI-driven workout routine based on cumulative muscle development.
 
