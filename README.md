@@ -30,12 +30,13 @@ An intelligent, privacy-first mobile application that acts as a digital physical
   <img src="https://github.com/user-attachments/assets/1d98bb3e-da88-4e6a-a1f1-48a16e689c61" width="23%">
   <img src="https://github.com/user-attachments/assets/9ca574be-c5c1-499d-bfd8-36fe411bbd57" width="23%">
   <img src="https://github.com/user-attachments/assets/a3d404bc-5d33-4c23-9e15-b6612f767155" width="23%">
+  <img src="https://github.com/user-attachments/assets/f3a1b17e-3907-4f1a-b6ca-37e7775391f4" width="23%">
+
 </p>
 
 ### 📊 2. Biomechanical Reports & Analytics
 *Detailed post-workout reports, calorie tracking, and form analysis charts.*
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/f3a1b17e-3907-4f1a-b6ca-37e7775391f4" width="23%">
   <img src="https://github.com/user-attachments/assets/3870e1b5-d858-4c67-984e-2f0238e7f65d" width="23%">
   <img src="https://github.com/user-attachments/assets/49cfae76-1e00-4c70-9a6a-e6a187a117f6" width="23%">
   <img src="https://github.com/user-attachments/assets/12abd363-b6ff-4f53-bf46-03861c2c5758" width="23%">
